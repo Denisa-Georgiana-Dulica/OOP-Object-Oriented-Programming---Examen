@@ -1,0 +1,11 @@
+Sala
+Acasa
+30
+3
+bara
+haltere
+Ciocan
+20
+17.5
+11.5
+Usoara
